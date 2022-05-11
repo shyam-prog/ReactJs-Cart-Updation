@@ -1,0 +1,17 @@
+.custom__button {
+    border-radius: 2rem;
+    border: solid transparent;
+    width: fit-content;
+    padding: 10px 2rem;
+    font-size: 1.1rem;
+    margin: 20px 8%;
+    background-color: #58220c;
+    color:aliceblue;
+    display: block;
+   
+    
+}
+
+.custom__button:hover {
+    background-color: #4b1d0b;
+}

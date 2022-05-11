@@ -1,0 +1,53 @@
+.rigth__info {
+    flex: 0 1 auto;
+    z-index: auto;
+    width: fit-content;
+    border: solid transparent;
+    padding: 0;
+    margin-right: 0;
+}
+
+
+  .right__info .buttonforchange {
+    font-weight: bold;
+    color: #882b06;
+    display: inline;
+    margin: 0;
+    padding: 5px 5px;
+    margin: 5px;
+    width: fit-content;
+    border-radius: 5px;
+    border: solid 1px gainsboro;
+    font-size: 1.2rem;
+    font-style: italic;
+  }
+  .buttonforchange:hover {
+      background-color: rgb(195, 197, 199);
+  }
+
+  .left__info {
+    flex: 0 1 auto;
+    z-index: auto;
+    width: fit-content;
+    border: solid transparent;
+    padding: 0;
+    margin-left: 0;
+  
+}
+.left__info span {
+  font-weight: normal;
+  margin: 0;
+  font-size: 0.9rem;
+  font-style: italic;
+  padding: 0px 5px;
+}
+  
+.left__info h3 {
+  margin: 0;
+  padding: 5px 5px;
+}
+.left__info h4 {
+  margin: 0;
+  padding: 3px 5px;
+  color: #882b06;
+}

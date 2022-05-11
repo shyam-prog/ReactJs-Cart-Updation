@@ -1,0 +1,43 @@
+.meal__info {
+  width: fit-content;
+  border: solid transparent;
+  padding: 0;
+  margin-left: 0;
+
+  flex: 0 1 auto;
+}
+.meal__info p {
+  font-weight: normal;
+  margin: 0;
+  font-size: 0.9rem;
+  font-style: italic;
+  padding: 0px 5px;
+}
+.meal__info h3 {
+  margin: 0;
+  padding: 5px 5px;
+}
+.meal__info h4 {
+  margin: 0;
+  padding: 3px 5px;
+  color: #882b06;
+}
+
+/* button {
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 1.8rem;
+    border: solid transparent;
+    width: 9rem;
+    min-width:2rem;
+    padding: 10px 1.1rem;
+    font-size: 0.9rem;
+    background-color: #58220c;
+    color:aliceblue;
+}
+
+button:hover {
+    background-color: #4b1d0b;
+} */

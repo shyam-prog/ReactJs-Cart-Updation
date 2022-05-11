@@ -1,0 +1,36 @@
+.add__meal {
+  border: solid transparent;
+
+  flex: 0 1 auto;
+
+  /* display: flex;
+    flex-direction: row;
+    align-items: center;
+     */
+}
+
+.label__mealslist {
+  margin: 0 1rem;
+}
+
+.input__mealslist {
+  width: 35px;
+  padding: 5px;
+  margin: 5px 10px 0 10px;
+  border-radius: 5px;
+  border: solid 1px gainsboro;
+}
+
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.input__mealslist:target {
+  border-color: rgb(180, 174, 174);
+}
+
+hr {
+  flex: 0 1 100%;
+}

@@ -1,0 +1,15 @@
+.cart-update__text {
+    display: inline;
+    padding: 0px 5px;
+    padding-left: 10px;
+}
+.cart-update__number {
+    display: inline;
+    background-color:#882b06;
+    border: solid transparent;
+    border-radius: 1rem;
+    color: aliceblue;
+    padding: 0px 10px;
+
+    /* padding: 10px; */
+}

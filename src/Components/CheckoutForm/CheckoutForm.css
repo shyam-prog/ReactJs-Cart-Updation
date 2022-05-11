@@ -1,0 +1,24 @@
+
+
+.label__checkout {
+    display: block;
+}
+
+.input__checkout {
+    display: block;
+}
+
+.for__buttons {
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.checkout__div {
+    width: 100%;
+    color: #000000;
+}
+
+.custom__button_cancel.custom__button_confirm {
+    float: right;
+    
+}
